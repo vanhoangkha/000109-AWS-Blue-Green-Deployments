@@ -1,4 +1,8 @@
-
-*.bkp
-
-/public
+.DS_Store
+.hugo_build.lock
+/public/
+/resources/_gen/
+*.log
+node_modules/
+.vscode/
+.idea/
