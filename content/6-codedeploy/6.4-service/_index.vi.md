@@ -1,6 +1,6 @@
 ---
 title: "Tạo Cluster service"
-date: "`r Sys.Date()`"
+date: 2024-01-01
 weight: 4
 chapter: false
 pre: " <b> 6.4 </b> "
