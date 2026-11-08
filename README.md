@@ -1,4 +1,4 @@
-# 🔄 Blue/Green Deployments
+# Blue/Green Deployments
 
 Zero-downtime deployments using blue/green strategy on AWS.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000109-AWS-Blue-Green-Deployments/)**
+**[Start the workshop](https://vanhoangkha.github.io/000109-AWS-Blue-Green-Deployments/)**
 
 ## Prerequisites
 
